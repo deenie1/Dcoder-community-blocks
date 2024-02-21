@@ -11,7 +11,7 @@
   "license": "ISC",
   "dependencies": {
     "@octokit/core": "^3.5.1",
-    "axios": "^0.21.1",
+    "axios": "^0.28.0",
     "github-api": "^3.4.0",
     "request": "^2.88.2"
   }
