@@ -10,7 +10,7 @@
   "author": "",
   "license": "ISC",
   "dependencies": {
-    "mysql2": "^2.3.0",
+    "mysql2": "^3.9.7",
     "oracledb": "^5.2.0",
     "pg": "^8.7.1"
   }
